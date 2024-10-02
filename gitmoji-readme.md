@@ -4,7 +4,7 @@
 
 <!-- une description de ce que fait le plugin, sans trop entrer dans la technique ; -->
 
-## introduction
+## Introduction
 
 **Gitmoji** est une initiative visant à normaliser et expliquer l'utilisation des emojis dans les "commit" de validation de GitHub.
 L'utilisation d'emojis dans les messages de commit permet d'identifier facilement le but ou l'intention d'une validation en regardant seulement les emojis utilisés.
@@ -19,7 +19,7 @@ Ou sinon la commande : npm i -g gitmoji-cli
 
 ## Utilisation dans les commit
 
-par exemple si vous avec fixé un bug sur votre code et que vous voulez le signaler, vous pouvez utiliser le gitmoji 🐛 pour signaler que vous avez corriger le bug.
+Par exemple si vous avec fixé un bug sur votre code et que vous voulez le signaler, vous pouvez utiliser le gitmoji 🐛 pour signaler que vous avez corriger le bug.
 utiliser la commande : `git commit -m ":bug:"`
 
 ## Dans votre code
@@ -35,4 +35,4 @@ Vous utilisez Gitmoji dans votre projet ? Placez le badge Gitmoji en haut de vot
 
 ## Où trouver la signification et les emojis des Gitmoji ?
 
-Vous pouvez retrouver les significations des différent Gitmoji sur le site [https://gitmoji.dev/](https://gitmoji.dev/).
+Vous pouvez les retrouver sur le site [gitmoji.dev](https://gitmoji.dev/).
