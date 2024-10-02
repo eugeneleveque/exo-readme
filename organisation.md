@@ -1,14 +1,14 @@
 # La Team
 
-** Alexandre **
+**Alexandre**
 
 Celui qui gère Git à l'aise !
 
-** Eugène **
+**Eugène**
 
 Créer des repos ? Facile !!
 
-** Joyce **
+**Joyce**
 
 Dans la théorie, c'est simple ;)
 

@@ -1,6 +1,6 @@
-* ReadMe*
+* ReadMe
 
-** Sommaire **
+**Sommaire**
 
 1. [Organisation](./organisation.md)
     * La team
