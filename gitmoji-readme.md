@@ -33,6 +33,14 @@ Vous utilisez Gitmoji dans votre projet ? Placez le badge Gitmoji en haut de vot
   />
 </a>`
 
+**Résultat :**
+<a href="https://gitmoji.dev">
+<img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a>
+
 ## Où trouver la signification et les emojis des Gitmoji ?
 
 Vous pouvez les retrouver sur le site [gitmoji.dev](https://gitmoji.dev/).
