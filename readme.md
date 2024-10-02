@@ -7,5 +7,5 @@
     * Le taff
 2. [Git flow](./gitFlow.md)
     * Mode d'emploi
-3. [Git moji](./Gitmoji.md)
+3. [Git moji](./Gitmoji-readme.md)
     * Mode d'emploi
